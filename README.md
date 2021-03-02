@@ -2,4 +2,14 @@
 
 ## **Github Stats:** ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinh19&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinh19&show_icons=true&theme=merko" />
+</a>
+
+<br/>
+
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinh19&theme=dark" />
+</a>
+
+
