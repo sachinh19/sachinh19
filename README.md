@@ -22,4 +22,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sachinh19.sachinh19)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sachinh19/count.svg" />
+</p>
