@@ -1,4 +1,4 @@
-## Namaste!!! 🙏   I am  Sachin Haldavanekar.
+## Namaste!!! 🙏
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinh19&show_icons=true&theme=merko" />
